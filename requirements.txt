@@ -1,0 +1,4 @@
+customtkinter
+pycountry
+pillow
+rapidfuzz

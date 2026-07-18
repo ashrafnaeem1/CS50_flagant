@@ -95,7 +95,7 @@ flagant/
 └── test_project.py
 ```
 
-* `requirements`.txt lists all third party modules and is feeded into pip for setup.
+* `requirements`.txt lists all third party modules and is fed into pip for setup.
 * `favicon.ico` contains the icon for the program.
 * `project.py` contains all the code for the app.
 * `test_project.py` contains tests for some of the functions of project.py.
@@ -113,7 +113,7 @@ find national anthems for all these countries and handle those that do
 not have a readily available one.) and a simple stripped down version
 supporting only the flags feature is fairly good to submit on its own.
 
-As I preffered the name of my app to still be "Flagant", I decided to
+As I preferred the name of my app to still be "Flagant", I decided to
 change the catchphrase instead. So the catchphrase was changed from
 "Flagant - Flags and Anthems" to "Flagant - Country **Flag**s, Eleg**ant**".
 

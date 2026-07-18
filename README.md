@@ -98,7 +98,7 @@ flagant/
 * `requirements`.txt lists all third party modules and is feeded into pip for setup.
 * `favicon.ico` contains the icon for the program.
 * `project.py` contains all the code for the app.
-* `test_project.py` contains tests for some of the functions of test_project.py.
+* `test_project.py` contains tests for some of the functions of project.py.
 
 ## History
 

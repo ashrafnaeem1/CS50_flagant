@@ -2,10 +2,6 @@
 
 _**Video Demo: <https://www.youtube.com/watch?v=8aJC0TKUsjg>**_
 
-by Ashraf Naeem \
-(Github @ashrafnaeem1) \
-(EdX @Red_dashes_towards_ash) \
-(Email: <iamashrafnaeem@gmail.com>)
 
 ## Introduction
 

@@ -32,7 +32,7 @@ to unzip the archive (if applicable) to a custom folder:
 
 OR
 
-`copy flagant.zip custom_folder\flagent.zip`
+`copy flagant.zip custom_folder\flagant.zip`
 
 then
 

@@ -124,4 +124,7 @@ This project has been possible thanks to python and the following libraries:
 
 Special thanks to <https://github.com/hampusborgos/country-flags> for providing country flags.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
 Also, special thanks to the entire CS50p and CS50 team for such always providing amazing courses.

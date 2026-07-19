@@ -17,25 +17,6 @@ with a flag behind it (the Indian national flag.)
 
 ## Setup
 
-First of all, if you have (and want to use) the archived
-distribution instead of the directly provided files
-then unzip that distributed archive. You can use a GUI tool
-such as 7zip or (if applicable) your own file explorer's
-inbuilt file extractor. You may also use the below commands
-to unzip the archive (if applicable) to a custom folder:
-
-`cp flagant.zip custom_folder\flagant.zip`
-
-OR
-
-`copy flagant.zip custom_folder\flagant.zip`
-
-then
-
-`cd custom_folder`
-
-`tar -xf flagant.zip`
-
 > **Note:** Ensure you have the following required
 > files and folders in your project root before proceeding:
 >
